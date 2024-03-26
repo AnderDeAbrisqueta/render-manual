@@ -14,6 +14,7 @@
         "#common/*": "./common/*",
         "#core/*": "./core/*",
         "#dals/*": "./dals/*",
-        "#pods/*": "./pods/*"
+        "#pods/*": "./pods/*",
+        "#public/*": "./public/*"
     }
 }
